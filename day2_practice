@@ -1,0 +1,6 @@
+todays_tempurature = 80
+    puts "It is 80 degrees now."
+
+if today's tempuratur > 50
+puts "It is beautiful and I will go out hiking."
+end

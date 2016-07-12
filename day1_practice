@@ -1,0 +1,16 @@
+# Practicing the simple code from day 1
+# notes for navigating
+# pwd = print working directory
+# cd = change directory
+# to move something... cd name-of-subfolder/sub-subfolder/
+# $ cd ~/projects/ if you wanted to move to projects
+# ls = lists files in a dirctory
+# ls la = lists files and shows hidden files
+# rm path/to/file.ext
+# cat file.ext = prints the whole file
+# head and tail = first ten lines and last ten lines 
+# tab = cd ~/pr[TAB]ojects/ac[TAB]medesign/doc[TAB]umentation/ auto completes
+# control + a = beginning of the line
+# control + e = end of the line
+# use this https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101#start
+#
